@@ -67,7 +67,7 @@ header {
     position: relative;
     background-size: cover; 
     background-position: center center; 
-    background-image: url("imagens/paroquia_fotos/São-Roque_Boituva.jpg");
+    background-image: url("imagens/paroquia_fotos/f26.jpg");
     width: 99vw;
     height: 64vh;
     border-radius: 1vw;
@@ -124,7 +124,7 @@ header {
     background-color: white;
     padding: 1vw;
     width: 20vw;
-    height: 4vw;
+    height: 5.4vw;
     position: relative;
     left: 20vw;
     top: 2.1vw;
@@ -132,11 +132,11 @@ header {
 .div-sec-text-p2 {
     position: relative;
     left: 50vw;
-    bottom: 3.9vw;
+    bottom: 5.1vw;
     background-color: white;
     padding: 1vw;
     width: 23vw;
-    height: 4vw;
+    height: 5vw;
 }
 .div-sec-text-p3 {
     position: relative;
@@ -670,7 +670,7 @@ footer {
     }
     #p3-text {
         padding-top: 0.4vw;
-        font-size: 1.2vw;
+        font-size: 1.9vw;
         text-align: center;
         color: gray;
     }
